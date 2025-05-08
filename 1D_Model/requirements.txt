@@ -13,3 +13,4 @@ audiomentations==0.18.0
 nnAudio==0.2.6
 rfconv==0.0.2b20210406
 scikit_learn==1.0
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
