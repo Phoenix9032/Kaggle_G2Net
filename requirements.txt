@@ -3,7 +3,7 @@ pickle5==0.0.11
 timm==0.4.12
 pandas==1.3.2
 audiomentations==0.18.0
-transformers==4.11.2
+transformers==4.53.0
 tensorflow==2.6.0
 torchaudio==0.9.0
 joblib==1.0.1
